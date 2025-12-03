@@ -1,10 +1,11 @@
-Customer Churn Analysis — Power BI & SQL Project
+## Customer Churn Analysis — Power BI & SQL Project
 
 A full end-to-end customer churn analysis project combining SQL, Power Query, DAX, and Power BI to uncover churn drivers, visualize customer behavior, and design an interactive analytics dashboard.
 
 This project explores how customer demographics, tenure, spending habits, subscription types, and usage patterns influence churn — with insights presented through a clean and interactive Power BI dashboard.
 
-🔍 Project Overview
+---
+##  Project Overview
 
 This project focuses on identifying what drives customer churn and providing actionable insights that business teams can use to improve customer retention.
 
@@ -21,23 +22,25 @@ DAX measures for churn rate, totals, averages
 Interactive Power BI dashboard with slicers and drill-downs
 
 Insight summary based on visual and statistical analysis
-
-🛠️ Tools & Technologies Used
+---
+## Tools & Technologies Used
 Tool	Purpose
 SQL	Data extraction, joins, segmentation, aggregations, feature engineering
 Power Query	Data cleaning, correction, shaping, feature creation
 DAX	Calculated measures (Churn %, Spend, Tenure, Revenue)
 Power BI	Data modeling, relationships, visualization, dashboard design
-📸 Dashboard Preview
+---
+## Dashboard Preview
 Page 1 — Customer Churn Overview
 
-(Insert image here)
+<img width="1295" height="729" alt="image" src="https://github.com/user-attachments/assets/75ceb50b-2ad6-450d-a461-4b8e439afa9a" />
 
 Page 2 — Demographics & Subscription Insights
 
-(Insert image here)
+<img width="1295" height="725" alt="image" src="https://github.com/user-attachments/assets/a0f543c1-0672-4f70-a72b-e8efb95667da" />
 
-📊 Key Metrics Used
+---
+## Key Metrics Used
 
 Total Customers
 
@@ -62,8 +65,8 @@ Payment Delay Category
 Support Call Frequency
 
 These engineered features help identify key patterns that strongly predict churn.
-
-🧠 Analysis & Insights Summary
+---
+## Analysis & Insights Summary
 
 The full analysis in the dashboard explores churn patterns across:
 
@@ -86,8 +89,8 @@ Age group
 Gender
 
 These insights highlight the customer groups that require the most attention from retention teams.
-
-📥 How to Use This Project
+---
+## How to Use This Project
 Clone the repository
 git clone https://github.com/synthiaG/Customer-Churn-Analysis.git
 
@@ -102,8 +105,8 @@ SQL preparation queries are available in the SQL/ folder.
 Explore Insights
 
 Interact with the dashboard using slicers to drill down into churn drivers.
-
-👩‍💻 Author
+---
+## Author
 
 Synthia Oduor
 Data Analyst — SQL | Power BI | Python | Excel
