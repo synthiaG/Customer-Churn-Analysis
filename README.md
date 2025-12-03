@@ -6,7 +6,6 @@ This project explores how customer demographics, tenure, spending habits, subscr
 
 ---
 ##  Project Overview
-
 This project focuses on identifying what drives customer churn and providing actionable insights that business teams can use to improve customer retention.
 
 The analysis includes:
