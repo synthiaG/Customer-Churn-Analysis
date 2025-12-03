@@ -24,10 +24,10 @@ Insight summary based on visual and statistical analysis
 ---
 ## Tools & Technologies Used
 Tool	Purpose
-SQL	Data extraction, joins, segmentation, aggregations, feature engineering
-Power Query	Data cleaning, correction, shaping, feature creation
-DAX	Calculated measures (Churn %, Spend, Tenure, Revenue)
-Power BI	Data modeling, relationships, visualization, dashboard design
+- SQL	Data extraction, joins, segmentation, aggregations, feature engineering
+- Power Query	Data cleaning, correction, shaping, feature creation
+- DAX	Calculated measures (Churn %, Spend, Tenure, Revenue)
+- Power BI	Data modeling, relationships, visualization, dashboard design
 ---
 ## Dashboard Preview
 Page 1 — Customer Churn Overview
@@ -41,27 +41,27 @@ Page 2 — Demographics & Subscription Insights
 ---
 ## Key Metrics Used
 
-Total Customers
+- Total Customers
 
-Churn Rate
+- Churn Rate
 
-Average Tenure
+- Average Tenure
 
-Average Spend
+- Average Spend
 
-Total Revenue
+- Total Revenue
 
-Custom Segments Created
+- Custom Segments Created
 
-Spend Level: Low / Medium / High
+- Spend Level: Low / Medium / High
 
-Tenure Distribution: Loyal, Long-term, New, Short-term, Medium-term
+- Tenure Distribution: Loyal, Long-term, New, Short-term, Medium-term
 
-Usage Frequency: Low, High, Mild
+- Usage Frequency: Low, High, Mild
 
-Payment Delay Category
+- Payment Delay Category
 
-Support Call Frequency
+- Support Call Frequency
 
 These engineered features help identify key patterns that strongly predict churn.
 ---
@@ -69,27 +69,28 @@ These engineered features help identify key patterns that strongly predict churn
 
 The full analysis in the dashboard explores churn patterns across:
 
-Spend level
+- Spend level
 
-Customer tenure
+- Customer tenure
 
-Usage frequency
+- Usage frequency
 
-Payment delay behavior
+- Payment delay behavior
 
-Support call patterns
+- Support call patterns
 
-Contract length
+- Contract length
 
-Subscription type
+- Subscription type
 
-Age group
+- Age group
 
-Gender
+- Gender
 
 These insights highlight the customer groups that require the most attention from retention teams.
 ---
 ## How to Use This Project
+
 Clone the repository
 git clone https://github.com/synthiaG/Customer-Churn-Analysis.git
 
