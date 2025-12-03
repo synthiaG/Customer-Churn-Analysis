@@ -10,15 +10,15 @@ This project focuses on identifying what drives customer churn and providing act
 
 The analysis includes:
 
-Data extraction using SQL
+- Data extraction using SQL
 
-Data cleaning and transformation using Power Query
+- Data cleaning and transformation using Power Query
 
-Feature creation (Spend Level, Tenure Categories, Usage Segmentation)
+- Feature creation (Spend Level, Tenure Categories, Usage Segmentation)
 
-DAX measures for churn rate, totals, averages
+- DAX measures for churn rate, totals, averages
 
-Interactive Power BI dashboard with slicers and drill-downs
+- Interactive Power BI dashboard with slicers and drill-downs
 
 Insight summary based on visual and statistical analysis
 ---
