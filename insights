@@ -1,1 +1,103 @@
+Customer Churn Insights & Recommendations
+1️⃣ Demographics and Churn Risk
 
+Gender
+
+Female churn rate: 55%
+
+Male churn rate: 38%
+Insight: Women are significantly more likely to leave; the product may not meet female expectations.
+
+Age
+
+Older customers churn: 51%
+
+Young & middle-aged churn: ~44%
+Insight: Older customers show lower product fit or higher dissatisfaction.
+
+Gender × Age
+
+Female customers churn more across all age groups.
+Business Meaning: Product experience fails to retain female customers over time.
+
+2️⃣ Tenure and Customer Lifecycle
+
+Tenure Distribution:
+
+Loyal customers: 55.91%
+
+Long-term: 34.39%
+
+Medium-term: 28.26%
+
+Short-term: 29.58%
+
+New customers: 34.06%
+
+Insight: 🔴 Churn spikes after 24 months — this is the main retention leak.
+
+Tenure × Gender
+
+Female loyal customer churn: 60.49%
+
+Male loyal customer churn: 50.94%
+Insight: Women drop off more after 24 months; product may not sustain long-term engagement.
+
+Tenure × Age
+
+Loyal customer churn is above 50% across all ages.
+Insight: Mid-cycle retention strategy is failing; intervention needed before month 24.
+
+3️⃣ Subscription Types
+
+Monthly: 51.61% churn (highest)
+
+Annual: 46.22%
+
+Quarterly: 44.05%
+
+Insight: Monthly subscribers generate more revenue per person but are the most unstable.
+
+4️⃣ Usage & Customer Behavior
+
+Usage Frequency:
+
+Low frequency: 54.9% churn
+
+High frequency: 43% churn
+Insight: Engagement strongly predicts retention.
+
+Support Calls:
+
+Few calls → 25% churn
+
+Medium → 60.9% churn
+
+High → 60.8% churn
+Insight: 🔴 High support interaction indicates frustration and poor experience.
+
+Payment Delays:
+
+Longer delays correlate with higher churn.
+
+Female loyal customers have the highest payment delays: 17.62
+Insight: Payment frustrations or financial strain contribute to churn.
+
+📌 Recommendations
+Insight	Recommendation
+-Retention leak after 24 months	Introduce loyalty offers, mid-term check-ins with surveys & incentives, personalized retention messages during renewal periods
+-Female customers churn higher	Build customer personas, improve features for female use cases, provide female-focused onboarding messaging
+-Monthly subscribers churn highest	Launch monthly loyalty program, auto-renew incentives, flexible subscription “pause” options
+-Low-frequency users	Trigger “low-usage nudges” with recommended content, offer customizable reminders, improve onboarding tutorials
+-High support interaction	Identify top 3 issues causing calls, launch quick-fix improvements, add proactive in-app guidance
+-Payment delays	Offer flexible payment options, reminders, and financial support for at-risk customers
+
+✅ Key Takeaways:
+
+-Mid- and long-term loyal customers are the primary churn risk.
+
+-Female and older customers require tailored engagement strategies.
+
+-Subscription type and usage patterns are strong predictors of churn.
+
+-Support interactions and payment delays are actionable signals for intervention.
